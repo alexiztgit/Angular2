@@ -1,4 +1,4 @@
-# Angular 2 QuickStart Source (Cambio en prueba2 con richi)
+# Angular 2 QuickStart Source (Nuevo cambio en rama prueba)
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
